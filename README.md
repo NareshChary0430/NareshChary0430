@@ -27,7 +27,7 @@
 
 ### 👋 About Me
 
-```javascript
+javascript
 const nareshChary = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
@@ -52,4 +52,4 @@ const nareshChary = {
 🗄️ Databases
 <div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </div>
 💻 Languages & Tools
-<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </div> </td> </tr> </table> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <!-- Snake Animation --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshChary0430/NareshChary0430/output/github-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshChary0430/NareshChary0430/output/github-snake.svg"/> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NareshChary0430/NareshChary0430/output/github-snake.svg"/> </picture> </div> ```
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </div> </td> </tr> </table> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <!-- Snake Animation --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshChary0430/NareshChary0430/output/github-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshChary0430/NareshChary0430/output/github-snake.svg"/> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NareshChary0430/NareshChary0430/output/github-snake.svg"/> </picture> </div> 
